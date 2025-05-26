@@ -1,4 +1,4 @@
-# Linear-Regression-Housing
+# Linear Regression on California Housing Prices
 ## 📌 Overview
 This project uses linear regression to predict housing prices based on various features such as square footage, number of bedrooms, and location. The goal is to understand the relationships between these variables and to create a model that can estimate home prices accurately.
 
