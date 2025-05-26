@@ -22,14 +22,19 @@ The data pertains to the houses found in a given California district and some su
 
 
 ## 🧠 Methodology
-- Data Cleaning: Removed missing values and insignificant features, and converted categorical variables into numercial data (one-hot encoding).
+- Data Cleaning: Removed missing values and insignificant features, and converted categorical variables into numercial data
 
-- Exploratory Data Analysis: Used plots and correlation matrices to understand feature importance.
+- Exploratory Data Analysis: Used plots and correlation matrices to understand feature importance
 
-- Modeling: Implemented a multiple linear regression model using scikit-learn.
+- Modeling: Implemented a multiple linear regression model using scikit-learn
 
 - Evaluation: Assessed model performance using R² score and Mean Squared Error (MSE)
 
 
+## ✅ Future Improvements
+- Try regularized regression (Ridge, Lasso)
 
+- Include more complex models (e.g., Random Forest, XGBoost)
+
+- Convert categorical data using one-hot encoding
 
